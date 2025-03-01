@@ -1,0 +1,1 @@
+file_main2.txt adalah file yang dibuat di main
